@@ -1,10 +1,10 @@
-package com.hexated
+ffpackage com.hexated
 
 import com.lagradost.cloudstream3.mainPageOf
 
 class Ngefilm : Gomov() {
 
-    override var mainUrl = "https://ngefilm21.pics"
+    override var mainUrl = "https://new14.ngefilm.site"
 
     override var name = "Ngefilm"
     override val mainPage = mainPageOf(
