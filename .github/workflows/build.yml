@@ -26,7 +26,7 @@ jobs:
         with:
           ref: "builds"
           path: "builds"
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Clean old builds
         run: rm $GITHUB_WORKSPACE/builds/*.cs3 || true
